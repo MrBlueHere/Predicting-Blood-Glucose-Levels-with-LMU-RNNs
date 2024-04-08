@@ -1,0 +1,1 @@
+The data should be placed in this directory under `./OhioT1DM` directory.
