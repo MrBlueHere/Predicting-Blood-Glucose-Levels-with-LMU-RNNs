@@ -17,6 +17,9 @@ blood glucose prediction. Employing a multivariate time series, predictions are 
 model is comparable with state-of-the-art models on the OhioT1DM
 dataset, encompassing eight weeks of data from 12 distinct patients.
 
+### Architecture
+<img src="plots/LMU.png" alt="Architecture" width="800"/>
+
 ## Requirements
 Run with >= Python 3.10, requirements are available in `requirements.txt`. Install them with `pip install -r requirements.txt`. 
 
