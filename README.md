@@ -20,6 +20,9 @@ dataset, encompassing eight weeks of data from 12 distinct patients.
 ### Architecture
 <img src="plots/LMU.png" alt="Architecture" width="800"/>
 
+LMU cell schema is taken from the paper: Voelker, A., Kajić, I., Eliasmith, C.: Legendre memory units: Continuous-time
+representation in recurrent neural networks. Advances in Neural Information Processing Systems 32 (2019).
+
 ## Requirements
 Run with >= Python 3.10, requirements are available in `requirements.txt`. Install them with `pip install -r requirements.txt`. 
 
